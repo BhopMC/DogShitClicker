@@ -12,4 +12,5 @@ Note:
 _**I will not respond to errors in any server only in dm!**_
 
 My discord: BhopMC#8981
-Showcase vid: Coming Soon.
+
+Showcase vid: https://youtu.be/ivzrkAnCDDU
