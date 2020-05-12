@@ -1,9 +1,9 @@
                                                       #DOG SHIT
                                                       
 #How to setup:
-```1. Install visual studio.
-2. Download the files.
-3. Open the .sln file and u done.```
+```1. Install visual studio.```
+```2. Download the files.```
+```3. Open the .sln file and u done.```
 
 #Best protection for this:
 ```http://netfuscate.com/```
