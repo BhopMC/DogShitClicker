@@ -1,4 +1,6 @@
-                                                      #DOG SHIT
+Updated version here: https://github.com/BhopMC/DogShitClickerUpdated
+
+#DOG SHIT
                                                       
 How to setup:
 1. Install visual studio.
